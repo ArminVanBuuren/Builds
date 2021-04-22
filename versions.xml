@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Builds xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pack Project="SPAMassageSaloon" Name="RPlVUlzI13wLRbF.zip" MD5="1a565005b90af009d94b9ea08fc03f4c" NeedRestartApplication="true">
+    <Build>
+      <Location>SPAMassageSaloon.exe</Location>
+      <AssemblyName>SPAMassageSaloon</AssemblyName>
+      <ScopeName>SPAMassageSaloon.exe</ScopeName>
+      <Version>1.0.7782.34787</Version>
+      <Type>Update</Type>
+      <Description>Bug fixes and performance improvements.
+LogsReader:
+1. Added configuration form.
+2. Comboboxes with history.
+3. Fixed credential check.
+4. Performance improvement when search by regex is not checked.
+5. Added Paging</Description>
+    </Build>
+  </Pack>
+</Builds>
