@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <Builds xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Pack Project="SPAMassageSaloon" Name="M6yfsHQ35eNxdlK.zip" MD5="5c4be4676da0ef2f2d4b981f3e5a99bf" NeedRestartApplication="true">
+  <Pack Project="SPAMassageSaloon" Name="UZVvIWhHP8MB4Ce.zip" MD5="7583ff89e35a6798569b17e49a709d05" NeedRestartApplication="true">
     <Build>
       <Location>SPAMassageSaloon.exe</Location>
       <AssemblyName>SPAMassageSaloon</AssemblyName>
       <ScopeName>SPAMassageSaloon.exe</ScopeName>
-      <Version>1.0.7782.35412</Version>
+      <Version>1.0.7783.33811</Version>
       <Type>Update</Type>
       <Description>Bug fixes and performance improvements.
 LogsReader:
@@ -13,7 +13,8 @@ LogsReader:
 2. Comboboxes with history.
 3. Fixed credential check.
 4. Performance improvement when search by regex is not checked.
-5. Added Paging</Description>
+5. Added Paging
+6. Spa Filter minor fixes.</Description>
     </Build>
   </Pack>
 </Builds>
