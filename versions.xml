@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Builds xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Pack Project="SPAMassageSaloon" Name="UZVvIWhHP8MB4Ce.zip" MD5="7583ff89e35a6798569b17e49a709d05" NeedRestartApplication="true">
+  <Pack Project="SPAMassageSaloon" Name="O607EQVwxaHZ3RM.zip" MD5="7583ff89e35a6798569b17e49a709d05" NeedRestartApplication="true">
     <Build>
       <Location>SPAMassageSaloon.exe</Location>
       <AssemblyName>SPAMassageSaloon</AssemblyName>
